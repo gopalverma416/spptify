@@ -2,7 +2,7 @@ const data = [
     {
         id: 1,
         name: "Podcasts",
-        image: "https://lh3.googleusercontent.com/p/AF1QipN4sO59P-VTi9bc9Qgx8rrQ_1J4EnM44Bts5avz=s1360-w1360-h1020",
+        image: "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSPD_8SjaNlDznDDuH7JnO-7VAODgewqSiIoieU8h_-Qf8kNubPw-hsucHDE4OeDpHNOKgZcEYMPNj-0DrskxET5dg1E9QM3cUfls1ElA",
         description: "Listen to your favorite podcasts",
     },
 
@@ -33,7 +33,7 @@ const data = [
     {
         id: 6,
         name: "Punjabi",
-        image: "https://lh3.googleusercontent.com/p/AF1QipN4sO59P-VTi9bc9Qgx8rrQ_1J4EnM44Bts5avz=s1360-w1360-h1020",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BeachFun.jpg/576px-BeachFun.jpg",
         description: "Listen to your favorite podcasts",
     },
 
